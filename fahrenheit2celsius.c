@@ -1,5 +1,8 @@
-/* print Fahrenheit to Celsius table
-   for f = 0, 20, ..., 300 */
+/* Ex. 1.3
+   Print Fahrenheit to Celsius table
+   for f = 0, 20, ..., 300
+   with a header
+*/
 
 # import <stdio.h>
 
